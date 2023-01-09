@@ -1,14 +1,16 @@
-Hello! 👋 My name is Shane.
+### Hello! 👋
+
+My name is Shane.
 
 I'm studying to be a Software Engineer and learn as much as I can through my projects.
 
 Easiest way to reach me would be on Discord: `Killbasa#0063`
 
-### Learning
+#### Learning
 - [Kubernetes](https://kubernetes.io/) & [Argo CD](https://argoproj.github.io/cd/)
 - [SvelteKit](https://kit.svelte.dev/)
 
-### Technologies
+#### Technologies
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,3 +30,10 @@ Easiest way to reach me would be on Discord: `Killbasa#0063`
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### Stats
+<div>
+  <a href="https://github.com/killbasa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=killbasa&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
+  </a>
+</div>
