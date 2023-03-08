@@ -6,10 +6,6 @@ I'm studying to be a Software Engineer and learn as much as I can through my pro
 
 Easiest way to reach me would be on Discord: `Killbasa#0063`
 
-#### Learning
-- [Kubernetes](https://kubernetes.io/) & [Argo CD](https://argoproj.github.io/cd/)
-- [SvelteKit](https://kit.svelte.dev/)
-
 #### Technologies
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
