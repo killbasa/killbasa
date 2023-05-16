@@ -4,8 +4,6 @@ My name is Shane.
 
 I'm studying to be a Software Engineer and learn as much as I can through my projects.
 
-Easiest way to reach me would be on Discord: `Killbasa#0063`
-
 #### Stats
 <div>
   <a href="https://github.com/killbasa">
