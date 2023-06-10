@@ -1,38 +1,82 @@
-### Hello! 👋
+## Hello! 👋
 
 My name is Shane.
 
-I'm studying to be a Software Engineer and learn as much as I can through my projects.
+I'm studying to be a Software Engineer and learn as much as I can through my projects and contributions.
 
-### Stats 📊
-
-![Stats](https://github-readme-stats.vercel.app/api?username=killbasa&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight)
-
-
-### Tech stack :books:
-
-#### Languages
+## Stats 📊
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-263238?logo=typescript&logoColor=3178C6&style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-263238?logo=javascript&logoColor=F7DF1E&style=flat-square" />
-  <img src="https://img.shields.io/badge/HTML5-263238?logo=html5&logoColor=E34F26&style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS3-263238?logo=css3&logoColor=1572B6&style=flat-square" />
-  <img src="https://img.shields.io/badge/C%23-263238?logo=csharp&logoColor=239120&style=flat-square" />
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=killbasa&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true&line_height=30&hide=commits&theme=tokyonight" />
+	</a>
+	<a href="https://git.io/streak-stats">
+  		<img align="center" src="https://streak-stats.demolab.com?user=killbasa&theme=tokyonight&hide_border=true&card_width=200&hide_current_streak=true&hide_longest_streak=true" />
+	</a>
 </p>
 
-#### Frameworks & tools
+## Tech stack 📚
+
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/React-263238?logo=react&logoColor=61DAFB&style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-263238?logo=node.js&logoColor=339933&style=flat-square" />
-  <img src="https://img.shields.io/badge/Next.js-263238?logo=next.js&logoColor=000000&style=flat-square" />
-  <img src="https://img.shields.io/badge/C%23-263238?logo=csharp&logoColor=239120&style=flat-square" />
+  	<img src="https://img.shields.io/badge/TypeScript-39424A?logo=typescript&logoColor=3178C6&style=flat" />
+  	<img src="https://img.shields.io/badge/JavaScript-39424A?logo=javascript&logoColor=F7DF1E&style=flat" />
+	<img src="https://img.shields.io/badge/C%23-39424A?logo=csharp&logoColor=239120&style=flat" />
+	<img src="https://img.shields.io/badge/Golang-39424A?logo=go&logoColor=00ADD8&style=flat" />
+	<img src="https://img.shields.io/badge/Rust-39424A?logo=rust&logoColor=000000&style=flat" />
+	<img src="https://img.shields.io/badge/Svelte-39424A?logo=svelte&logoColor=FF3E00&style=flat" />
+  	<img src="https://img.shields.io/badge/HTML5-39424A?logo=html5&logoColor=E34F26&style=flat" />
+  	<img src="https://img.shields.io/badge/CSS3-39424A?logo=css3&logoColor=1572B6&style=flat" />
 </p>
 
-#### Other
+### Frameworks & tools
 
 <p>
-  <img src="https://img.shields.io/badge/Grafana-263238?logo=grafana&logoColor=F46800&style=flat-square" />
-  <img src="https://img.shields.io/badge/Prometheus-263238?logo=prometheus&logoColor=E6522C&style=flat-square" />
+	<img src="https://img.shields.io/badge/Docker-39424A?logo=docker&logoColor=2496ED&style=flat" />
+	<img src="https://img.shields.io/badge/Kubernetes-39424A?logo=kubernetes&logoColor=326CE5&style=flat" />
+	<img src="https://img.shields.io/badge/Node.js-39424A?logo=node.js&logoColor=339933&style=flat" />
+  	<img src="https://img.shields.io/badge/React-39424A?logo=react&logoColor=61DAFB&style=flat" />
+  	<img src="https://img.shields.io/badge/Next.js-39424A?logo=next.js&logoColor=000000&style=flat" />
+	<img src="https://img.shields.io/badge/Tailwind_CSS-39424A?logo=tailwindcss&logoColor=06B6D4&style=flat" />
+  	<img src="https://img.shields.io/badge/.NET-39424A?logo=dotnet&logoColor=512BD4&style=flat" />
+	<img src="https://img.shields.io/badge/Express-39424A?logo=express&logoColor=000000&style=flat" />
+	<img src="https://img.shields.io/badge/Helm-39424A?logo=helm&logoColor=0F1689&style=flat" />
+</p>
+
+### Databases
+
+<p>
+	<img src="https://img.shields.io/badge/PostgreSQL-39424A?logo=postgresql&logoColor=4169E1&style=flat" />
+	<img src="https://img.shields.io/badge/Redis-39424A?logo=redis&logoColor=DC382D&style=flat" />
+	<img src="https://img.shields.io/badge/SQLite-39424A?logo=sqlite&logoColor=003B57&style=flat" />
+  	<img src="https://img.shields.io/badge/Cockroach_Labs-39424A?logo=cockroachlabs&logoColor=6933FF&style=flat" />
+	<img src="https://img.shields.io/badge/MongoDB-39424A?logo=mongodb&logoColor=47A248&style=flat" />
+</p>
+
+### Workspace
+
+<p>
+	<img src="https://img.shields.io/badge/Git-39424A?logo=git&logoColor=F05032&style=flat" />
+	<img src="https://img.shields.io/badge/Linux-39424A?logo=linux&logoColor=FCC624&style=flat" />
+	<img src="https://img.shields.io/badge/Starship-39424A?logo=starship&logoColor=DD0B78&style=flat" />
+	<img src="https://img.shields.io/badge/Ubuntu-39424A?logo=ubuntu&logoColor=E95420&style=flat" />
+	<img src="https://img.shields.io/badge/VSCode-39424A?logo=visualstudiocode&logoColor=007ACC&style=flat" />
+	<img src="https://img.shields.io/badge/Webstorm-39424A?logo=webstorm&logoColor=000000&style=flat" />
+	<img src="https://img.shields.io/badge/Rider-39424A?logo=rider&logoColor=000000&style=flat" />
+	<img src="https://img.shields.io/badge/Goland-39424A?logo=goland&logoColor=000000&style=flat" />
+	<img src="https://img.shields.io/badge/CLion-39424A?logo=clion&logoColor=000000&style=flat" />
+</p>
+
+### Other
+
+<p>
+	<img src="https://img.shields.io/badge/Github_Actions-39424A?logo=githubactions&logoColor=2088FF&style=flat" />
+  	<img src="https://img.shields.io/badge/Grafana-39424A?logo=grafana&logoColor=F46800&style=flat" />
+  	<img src="https://img.shields.io/badge/Prometheus-39424A?logo=prometheus&logoColor=E6522C&style=flat" />
+	<img src="https://img.shields.io/badge/Nginx-39424A?logo=nginx&logoColor=009639&style=flat" />
+	<img src="https://img.shields.io/badge/Github-39424A?logo=github&logoColor=181717&style=flat" />
+	<img src="https://img.shields.io/badge/GitLab-39424A?logo=gitlab&logoColor=FC6D26&style=flat" />
+	<img src="https://img.shields.io/badge/Bitbucket-39424A?logo=bitbucket&logoColor=0052CC&style=flat" />
+	<img src="https://img.shields.io/badge/Jira-39424A?logo=jirasoftware&logoColor=0052CC&style=flat" />
 </p>
