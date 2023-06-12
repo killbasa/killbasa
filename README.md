@@ -54,20 +54,6 @@ I'm studying to be a Software Engineer and learn as much as I can through my pro
 	<img src="https://img.shields.io/badge/MongoDB-39424A?logo=mongodb&logoColor=47A248&style=flat" />
 </p>
 
-### Workspace
-
-<p>
-	<img src="https://img.shields.io/badge/Git-39424A?logo=git&logoColor=F05032&style=flat" />
-	<img src="https://img.shields.io/badge/Linux-39424A?logo=linux&logoColor=FCC624&style=flat" />
-	<img src="https://img.shields.io/badge/Starship-39424A?logo=starship&logoColor=DD0B78&style=flat" />
-	<img src="https://img.shields.io/badge/Ubuntu-39424A?logo=ubuntu&logoColor=E95420&style=flat" />
-	<img src="https://img.shields.io/badge/VSCode-39424A?logo=visualstudiocode&logoColor=007ACC&style=flat" />
-	<img src="https://img.shields.io/badge/Webstorm-39424A?logo=webstorm&logoColor=000000&style=flat" />
-	<img src="https://img.shields.io/badge/Rider-39424A?logo=rider&logoColor=000000&style=flat" />
-	<img src="https://img.shields.io/badge/Goland-39424A?logo=goland&logoColor=000000&style=flat" />
-	<img src="https://img.shields.io/badge/CLion-39424A?logo=clion&logoColor=000000&style=flat" />
-</p>
-
 ### Other
 
 <p>
