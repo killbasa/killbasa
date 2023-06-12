@@ -47,11 +47,6 @@ I'm studying to be a Software Engineer and learn as much as I can through my pro
 	<img src="https://img.shields.io/badge/SQLite-39424A?logo=sqlite&logoColor=003B57&style=flat" />
   	<img src="https://img.shields.io/badge/Cockroach_Labs-39424A?logo=cockroachlabs&logoColor=6933FF&style=flat" />
 	<img src="https://img.shields.io/badge/MongoDB-39424A?logo=mongodb&logoColor=47A248&style=flat" />
-</p>
-
-### Other
-
-<p>
 	<img src="https://img.shields.io/badge/Github_Actions-39424A?logo=githubactions&logoColor=2088FF&style=flat" />
   	<img src="https://img.shields.io/badge/Grafana-39424A?logo=grafana&logoColor=F46800&style=flat" />
   	<img src="https://img.shields.io/badge/Prometheus-39424A?logo=prometheus&logoColor=E6522C&style=flat" />
