@@ -42,11 +42,6 @@ I'm studying to be a Software Engineer and learn as much as I can through my pro
   	<img src="https://img.shields.io/badge/.NET-39424A?logo=dotnet&logoColor=512BD4&style=flat" />
 	<img src="https://img.shields.io/badge/Express-39424A?logo=express&logoColor=000000&style=flat" />
 	<img src="https://img.shields.io/badge/Helm-39424A?logo=helm&logoColor=0F1689&style=flat" />
-</p>
-
-### Databases
-
-<p>
 	<img src="https://img.shields.io/badge/PostgreSQL-39424A?logo=postgresql&logoColor=4169E1&style=flat" />
 	<img src="https://img.shields.io/badge/Redis-39424A?logo=redis&logoColor=DC382D&style=flat" />
 	<img src="https://img.shields.io/badge/SQLite-39424A?logo=sqlite&logoColor=003B57&style=flat" />
