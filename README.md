@@ -4,16 +4,11 @@ My name is Shane.
 
 I'm studying to be a Software Engineer and learn as much as I can through my projects and contributions.
 
-## Stats 📊
+## Current projects 🔧
 
-<p>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=killbasa&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true&line_height=30&hide=commits&theme=tokyonight" />
-	</a>
-	<a href="https://git.io/streak-stats">
-  		<img align="center" src="https://streak-stats.demolab.com?user=killbasa&theme=tokyonight&hide_border=true&card_width=200&hide_current_streak=true&hide_longest_streak=true" />
-	</a>
-</p>
+- [KBot](https://github.com/KBot-discord/KBot) - A multi-purpose Discord application written in [TypeScript](https://www.typescriptlang.org/) that serves over 100 communities with more than a total of 170k users.
+
+- Learning [Rust](https://www.rust-lang.org/), [Golang](https://go.dev/), and [Kubernetes](https://kubernetes.io/).
 
 ## Tech stack 📚
 
@@ -55,4 +50,15 @@ I'm studying to be a Software Engineer and learn as much as I can through my pro
 	<img src="https://img.shields.io/badge/GitLab-39424A?logo=gitlab&logoColor=FC6D26&style=flat" />
 	<img src="https://img.shields.io/badge/Bitbucket-39424A?logo=bitbucket&logoColor=0052CC&style=flat" />
 	<img src="https://img.shields.io/badge/Jira-39424A?logo=jirasoftware&logoColor=0052CC&style=flat" />
+</p>
+
+## Stats 📊
+
+<p>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=killbasa&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true&line_height=30&hide=commits&theme=tokyonight" />
+	</a>
+	<a href="https://git.io/streak-stats">
+  		<img align="center" src="https://streak-stats.demolab.com?user=killbasa&theme=tokyonight&hide_border=true&card_width=200&hide_current_streak=true&hide_longest_streak=true" />
+	</a>
 </p>
