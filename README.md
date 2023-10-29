@@ -6,7 +6,7 @@ I'm studying to be a Software Engineer and learn as much as I can through my pro
 
 ## Current projects 🔧
 
-- [KBot](https://github.com/KBot-discord/KBot) - A multi-purpose Discord application written in [TypeScript](https://www.typescriptlang.org/) that serves over 100 communities with more than a total of 170k users.
+- [KBot](https://github.com/KBot-discord/KBot) - A multi-purpose Discord application written in [TypeScript](https://www.typescriptlang.org/).
 
 - [Amaneko](https://github.com/killbasa/Amaneko) - A Discord bot for VTuber livestream relays and notifications. 
 
