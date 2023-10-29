@@ -53,14 +53,3 @@ I'm studying to be a Software Engineer and learn as much as I can through my pro
 	<img src="https://img.shields.io/badge/Bitbucket-39424A?logo=bitbucket&logoColor=0052CC&style=flat" />
 	<img src="https://img.shields.io/badge/Jira-39424A?logo=jirasoftware&logoColor=0052CC&style=flat" />
 </p>
-
-## Stats 📊
-
-<p>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=killbasa&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true&line_height=30&hide=commits&theme=tokyonight" />
-	</a>
-	<a href="https://git.io/streak-stats">
-  		<img align="center" src="https://streak-stats.demolab.com?user=killbasa&theme=tokyonight&hide_border=true&card_width=200&hide_current_streak=true&hide_longest_streak=true" />
-	</a>
-</p>
