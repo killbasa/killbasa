@@ -8,7 +8,7 @@ I'm studying to be a Software Engineer and learn as much as I can through my pro
 
 - [KBot](https://github.com/KBot-discord/KBot) - A multi-purpose Discord application written in [TypeScript](https://www.typescriptlang.org/).
 
-- [Amaneko](https://github.com/killbasa/Amaneko) - A Discord bot for VTuber livestream relays and notifications. 
+- [Amaneko](https://github.com/killbasa/Amaneko) - A Discord application for VTuber livestream relays and notifications. 
 
 - Learning [Rust](https://www.rust-lang.org/), [Golang](https://go.dev/), and [Kubernetes](https://kubernetes.io/).
 
