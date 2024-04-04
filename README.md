@@ -2,7 +2,7 @@
 
 My name is Shane.
 
-I'm studying to be a Software Engineer and learn as much as I can through my projects and contributions.
+Learning as much as I can through my projects and contributions.
 
 ## Current projects 🔧
 
